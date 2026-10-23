@@ -1,5 +1,5 @@
 <a href="https://lul-os.vercel.app">
-  <img src="assets/banner-pixel.svg" alt="mrlul. I build interfaces that feel like worlds, not pages." width="100%">
+  <img src="assets/banner-px.svg" alt="mrlul. I build interfaces that feel like worlds, not pages." width="100%">
 </a>
 
 I'm Shahboz, known online as **mrlul**. I'm a front-end developer with two years of experience, working mostly in React and TypeScript. I also build games, mobile apps, and pretty much anything else that runs on a screen.
