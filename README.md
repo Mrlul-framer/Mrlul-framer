@@ -8,6 +8,8 @@ I'm Shahboz, known online as **mrlul**. I'm a front-end developer with two years
 
 I care about how a screen feels before how it's built. Outside the editor I draw, design, watch films, play games, and run a slow side quest in game development. I'm curious about human nature, and it ends up in the interfaces I make.
 
+I wanna mention that, i have 20+ private repos and i prefer to not show them, for some reasons. Besides i can develop various games, mobile apps and pretty much anything else that runs on a screen.
+
 <br>
 
 ## Selected work
