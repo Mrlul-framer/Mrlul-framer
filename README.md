@@ -2,7 +2,7 @@
   <img src="assets/banner-px.svg" alt="mrlul. I build interfaces that feel like worlds, not pages." width="100%">
 </a>
 
-<br><br>
+<br>
 
 I'm Shahboz, known online as **mrlul**. I'm a front-end developer with two years of experience, working mostly in React and TypeScript. I also build games, mobile apps, and pretty much anything else that runs on a screen.
 
@@ -11,7 +11,7 @@ I care about how a screen feels before how it's built. Outside the editor I draw
 I keep 20+ other repositories private, so this page shows only a small selection of what I've made.
 
 
-<br><br><br>
+<br><br>
 
 
 
