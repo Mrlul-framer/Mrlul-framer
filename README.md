@@ -8,7 +8,7 @@ I care about how a screen feels before how it's built. Outside the editor I draw
 
 I keep 20+ other repositories private, so this page shows only a small selection of what I've made.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<!-- <img src="assets/divider.svg" alt="" width="100%"> -->
 
 ## <img src="assets/heading-work.svg" alt="Selected work" height="64">
 
