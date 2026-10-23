@@ -30,6 +30,9 @@ I keep 20+ other repositories private, so this page shows only a small selection
 
 Also: a [landing page for a consulting company](https://bbb-kappa-liard.vercel.app/) and my [first portfolio, made in Framer](https://mrlul.framer.website/). In total, 15+ projects, 5 of them real-world.
 
+
+<br><br><br>
+
 ### <img src="assets/heading-stack-px.svg" alt="What I work with" height="48">
 
 <img src="assets/stack-px.svg" alt="React, TypeScript, Next.js, Tailwind, Node.js, PostgreSQL, Supabase, Figma, Framer" width="100%">
